@@ -1,3 +1,1 @@
-# Obsolete
-
-This repo is no longer relevant, please read [Developer Guides](https://topjohnwu.github.io/Magisk/guides.html) for instruction on how to create a Magisk Module Installer!
+This is a magisk module that replaces the bootanimation binary file in /system/bin and it also mounts lib boot. animation.so in /system/lib64. bin, bootanimation depends on it. All binaries and libraries were taken and compiled from the official AOSP android 14-release
