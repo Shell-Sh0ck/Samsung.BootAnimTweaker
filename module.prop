@@ -1,0 +1,6 @@
+id=AnimTweak
+name=BootAnimationTweaker
+version=v1.0.0
+versionCode=1
+author=Shell-Sh0ck
+description=Replaces the binary files of the system in /system/bin and /system/lib64
