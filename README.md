@@ -4,3 +4,5 @@ This is a magisk module that replaces the bootanimation binary file in /system/b
 https://android.googlesource.com/platform/frameworks/base/+/refs/heads/android14-release/cmds/bootanimation/FORMAT.md
 
 After installing the module, add your zip archive with animations to the directory where the official boot animations are located *.qmg
+
+if you want to create your own boot animation, then use this script https://github.com/Shell-Sh0ck/vid2animzip
